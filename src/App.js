@@ -1,10 +1,18 @@
 
-import './App.css';
+import React from "react";
+import Main from "./components/Main";
+import Wrapper from "./components/Wrapper";
+import Header from "./components/Header";
+
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>This is react</h1>
+      <Wrapper>
+        <Header />
+        <Main />
+      </Wrapper>
     </div>
   );
 }
