@@ -3,9 +3,9 @@
   ## Table of Contents
    * [Description](#Description)
    
-   * [`src` folder ](#src-folder )
+   * [`src` Folder ](#src-folder )
 
-   * [Installation Instructions](#installation-instructions)
+   * [Installation and Usage](#installation-and-usage-instructions)
    
    * [Deployed Images](#Deployed-Images)
    
@@ -24,7 +24,7 @@
    4. `components` folder is the main body of the aplication where the diferent jsx files are developed, exported and inported as needed.
  
 
-   ## Installation Instructions
+   ## Installation and Usage Instructions
   You can search an employee by name in [react-employee-directory](https://bbeyenene.github.io/react-employee-directory/). Moreover, the developer is authorizing a free usage and installation by cloning from the code [Bbeyenene/react-employee-directory](https://github.com/Bbeyenene/react-employee-directory).
 
    ## Deployed Images
