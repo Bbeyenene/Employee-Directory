@@ -1,5 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+<<<<<<< HEAD
+=======
+//import * as serviceWorker from './serviceWorker';
+>>>>>>> 275aafb57f5d7cc10422c6e385b0c7e903db928e
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
