@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import * as serviceWorker from './serviceWorker';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
@@ -20,5 +19,5 @@ ReactDOM.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+// // Learn more about service workers: https://bit.ly/CRA-PWA
+// serviceWorker.unregister();
